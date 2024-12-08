@@ -26,7 +26,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Click the Image to Fetch Your IP Address</h1>
       <img
         src="/Random.jpg"
         alt="Click me"
